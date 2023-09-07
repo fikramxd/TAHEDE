@@ -1,4 +1,4 @@
-# Penginstallan
+##### Penginstallan
 
 $ pkg update && pkg upgrade
 
@@ -25,3 +25,6 @@ $ python tahede.py
 
 Thankss 🙏🙏🙏
 Support By 𝗠𝗿. 𝗙 • 𝗫𝗗
+
+##### picture
+https://github.com/fikramxd/fikramxd/blob/main/Screenshot_2023-09-07-09-19-19-43_84d3000e3f4017145260f7618db1d683.png
