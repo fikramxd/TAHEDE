@@ -1,4 +1,6 @@
-##### {B}Penginstallan
+#### Picture
+![Mr.F XD] https://user-images.githubusercontent.com/Screenshot_2023-09-07-09-19-19-43_84d3000e3f4017145260f7618db1d683.png
+#### Penginstallan
 
 $ pkg update && pkg upgrade
 
